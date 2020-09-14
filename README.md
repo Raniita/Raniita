@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋 I'm a frog 🐸
+
+- 🔭 I’m currently working at Researcher at UPCT Mar Menor research team as Backend/Electronics/DevOps
+- 🌱 I’m currently learning python backend (Flask way!)
+- ⚡ Fun fact: Love mechanical keyboards 
 
 <!--
 **Raniita/Raniita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
