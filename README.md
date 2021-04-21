@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm a frog 🐸
 
-- 🔭 I’m currently working at Researcher at UPCT Mar Menor research team as Backend/Electronics/DevOps
+- 🔭 I’m currently working as a researcher at UPCT Mar Menor research team as Backend/Electronics/DevOps
 - 🌱 I’m currently learning python backend (Flask way!)
 - ⚡ Fun fact: Love mechanical keyboards 
 
