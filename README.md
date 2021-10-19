@@ -1,20 +1,9 @@
-### Hi there! 👋 I'm a frog 🐸
-
+### Hi there! 👋 I'm a frog aka 'Ranii' 🐸
+- 🔧 I'm a Telecom Engineer by Universidad Politecnica de Cartagena (UPCT)
 - 🔭 I’m currently working as a researcher at UPCT Mar Menor research team as Backend/Electronics/DevOps
-- 🌱 I’m currently learning python backend (Flask way!)
-- ⚡ Fun fact: Love mechanical keyboards 
+- ⚡ I’m currently learning Python Backend (Flask/Fast API way!)
+- 🌱 Fun fact: Love mechanical keyboards & home gardening (chillies lover)
 
-<!--
-**Raniita/Raniita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 Some stats!\
+![Raniita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raniita&count_private=true&show_icons=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raniita&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
