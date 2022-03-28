@@ -1,7 +1,6 @@
 ### Hi there! 👋 I'm a frog aka 'Ranii' 🐸
 - 🔧 I'm a Telecom Engineer by Universidad Politecnica de Cartagena (UPCT)
-- 🔭 I’m currently working as a researcher at UPCT Mar Menor research team as Backend/Electronics/DevOps
-- ⚡ I’m currently learning Python Backend (Flask/Fast API way!)
+- ⚡ I’m in active learning with Python Backend (Flask/Fast API way!)
 - 🌱 Fun fact: Love mechanical keyboards & home gardening (chillies lover)
 
 - 📈 Some stats!\
