@@ -1,12 +1,12 @@
 ### Hi there! 👋 I'm a frog aka 'Ranii' 🐸
 - 🔧 I'm a BS Telecom Engineer by Universidad Politecnica de Cartagena (UPCT), Spain
 - ⚡ Also I’m a Python backend developer (Flask/FastAPI way!)
-- 🤖 Futhermore, I have my personal electronic labs, usually for repairing random things. Some of the last things would be repaired: 
-  * ZX+ Spectrum 48k (keyboard switch + lower RAM issue)
-  * Game Gear from my parents (switch caps + change to a LCD screen)
+- 🤖 Futhermore, I have my personal electronics labs, usually for repairing random things. Some of the last things would be repaired: 
+  * ZX+ Spectrum 48k (keyboard membrane + lower RAM issue)
+  * Game Gear (switch caps + change to a LCD screen)
   * Game Boy Color (absolutely broken power switch)
   * Atari 2600 Jr (major cleaning + change joysticks connector + custom paddle controler)
-- 🧰 Hobbyist Selhosted, SysAdmin, Cloud, SRE, etc...
+- 🧰 Hobbyist Selfhosted, SysAdmin, DevOps, Cloud, SRE, etc...
 - 🌱 Fun fact: Love mechanical keyboards & home gardening (chillies lover 🌶️)
 
 - 📈 Some stats!\
